@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  backendUri: "https://api-devoted-catholic.herokuapp.com",
+  backendUri: "https://dna-node-backend.herokuapp.com/",
   firebaseConfig: {
     apiKey: "AIzaSyCI0MIUi31DxlDw9Uye6ngoilk1N8j147E",
     authDomain: "codify-io.firebaseapp.com",
